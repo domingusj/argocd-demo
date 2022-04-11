@@ -1,0 +1,10 @@
+{
+  "appName": "hello-world",
+  "userGivenName": "hello-world",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hello-world/overlays/gitops-demo",
+  "srcRepoURL": "https://github.com/domingusj/argocd-demo.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
